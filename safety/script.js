@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let f=(p.value.match(/hate|violence|adult/gi)||[]).length;res.innerText='Flags: '+f;}

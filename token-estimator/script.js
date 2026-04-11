@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Approx tokens: '+Math.ceil(p.value.split(/\s+/).filter(Boolean).length*1.3);} 

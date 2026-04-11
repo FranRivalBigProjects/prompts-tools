@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Chars: '+p.value.length+' | Words: '+p.value.split(/\s+/).filter(Boolean).length;}

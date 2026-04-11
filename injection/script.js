@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let f=(p.value.match(/ignore previous|override|bypass/gi)||[]).length;res.innerText='Risks: '+f;}
